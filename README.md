@@ -6,6 +6,6 @@ My name is Edson, Oceanographer with an MSc in Remote Sensing, and enthusiastic 
 ## Summary
 [01 Analyzing CTD measurements](https://github.com/edsonfreirefs/Portfolio/blob/master/01%20Analyzing%20CTD%20measurements.ipynb)
 <br>
-[02 Analyzing data from Microsoft Excel files in Python](02 Analyzing data from Microsoft Excel files in Python.ipynb)
+[02 Analyzing data from Microsoft Excel files in Python](https://github.com/edsonfreirefs/Portfolio/blob/master/02%20Analyzing%20data%20from%20Microsoft%20Excel%20files%20in%20Python.ipynb)
 <br>
-03 Combining PostgreSQL and Python
+[03 Combining PostgreSQL and Python](https://github.com/edsonfreirefs/Portfolio/blob/master/03%20Combining%20PostgreSQL%20and%20Python.ipynb)

@@ -5,7 +5,7 @@ My name is Edson, Oceanographer with an MSc in Remote Sensing, and enthusiastic 
 
 ## Summary
 01 Analyzing CTD measurements
-<hr>
+<br>
 02 Analyzing data from Microsoft Excel files in Python
-<hr>
+<br>
 03 Combining PostgreSQL and Python

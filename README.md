@@ -11,3 +11,6 @@ My name is Edson, Oceanographer with an MSc in Remote Sensing, and enthusiastic 
 [03 Combining PostgreSQL and Python](https://github.com/edsonfreirefs/Portfolio/blob/master/03%20Combining%20PostgreSQL%20and%20Python.ipynb)
 <br>
 [04 Train machine learning algorithms (SVM)](https://github.com/edsonfreirefs/Portfolio/blob/master/04%20Train%20machine%20learning%20algorithms%20(SVM).ipynb)
+
+
+[06 Analysis of optical water types and its limnological parameters](https://github.com/edsonfreirefs/Portfolio/blob/master/06%20Analysis%20of%20optical%20water%20types%20and%20its%20limnological%20parameters.ipynb)
